@@ -1,4 +1,4 @@
-<p align="center"><a href="https://#"><img width="80%" alt="Hello, I'm Nizar. I do open source!" src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://#"><img width="80%" alt="Hello, I'm Nizar. I do open source!" src="./header.png" /></a></p>
 
 <br />
 

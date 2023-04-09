@@ -1,3 +1,4 @@
+<p align="center"><a href="https://#"><img width="80%" alt="Hello, I'm Nizar. I do open source!" src="./assets/header.png" /></a></p>
 
 <br />
 
@@ -18,8 +19,8 @@ Hi 👋, I'm a self-taught Full Stack Data Scientist from Sri Lanka
 <code><img height="20" alt="python" src="https://img.icons8.com/color/48/null/python--v1.png"></code>
 <code><img height="20" alt="tensorflow" src="https://img.icons8.com/color/48/null/tensorflow.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="tailwind" src"https://img.icons8.com/color/48/null/tailwindcss.png"></code>
-<code><img height="20" alt="nodejs" src"https://img.icons8.com/color/48/null/nodejs.png"></code>
+<code><img height="20" alt="tailwind" src="https://img.icons8.com/color/48/null/tailwindcss.png"></code>
+<code><img height="20" alt="nodejs" src="https://img.icons8.com/color/48/null/nodejs.png"></code>
 <code><img height="20" alt="gcp" src="https://img.icons8.com/fluency/48/null/google-cloud.png"></code>
 <code><img height="20" alt="aws" src="https://img.icons8.com/color/48/null/amazon-web-services.png"></code>   
 

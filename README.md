@@ -2,7 +2,7 @@
 
 <br />
 
-Hi 👋, I'm a self-taught Full Stack Data Scientist from Sri Lanka 
+Hi 👋, I'm a Full Stack Data Scientist from Sri Lanka 
 
 **About me**
 <br>

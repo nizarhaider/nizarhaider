@@ -4,6 +4,8 @@
 
 Hi 👋, I'm a Full Stack Data Scientist from Sri Lanka 
 
+![](https://komarev.com/ghpvc/?username=nizarhaider&color=blue&style=for-the-badge)
+
 **About me**
 <br>
 - ❤️ I love working with data and creating fun projects around them
